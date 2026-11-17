@@ -1,1 +1,1 @@
-# 2gispars
+# parsing for 2gis server
